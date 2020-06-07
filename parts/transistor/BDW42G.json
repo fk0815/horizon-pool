@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "BDW42G"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/BDW42-D.PDF"
+    ],
+    "description": [
+        false,
+        "15A Darlington Complementary Silicon Power Transistor80−100V, 85W"
+    ],
+    "entity": "15e94b7a-b7c9-4bf2-820c-11074dc0718e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "c5090cd8-7023-4a42-ae34-167ea68558df": "BDW42G"
+    },
+    "package": "e8de2522-cb70-44fc-b745-e1bf027ad93f",
+    "pad_map": {
+        "125529a1-2d0d-412a-ab8c-98b14db04ac6": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "a32ee15c-3216-4e34-93d6-44e572f828b4": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "c22e1dbd-3c42-45b2-9b5e-ad491419e66b": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "darlington",
+        "npn",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "f42d651d-5820-482b-92e4-609a6ed97ad0",
+    "value": [
+        false,
+        ""
+    ]
+}
