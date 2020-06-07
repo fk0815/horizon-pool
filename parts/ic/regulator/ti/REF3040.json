@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "REF3040"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/ds/symlink/ref3040.pdf?ts=1591562149537&ref_url=https://www.ti.com/product/REF3040?keyMatch%3DREF3040&tisearch=Search-EN-everything&usecase=GPN"
+    ],
+    "description": [
+        false,
+        "50-ppm/°C Max, 50-μA, CMOS Voltage Reference"
+    ],
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "orderable_MPNs": {
+        "df35e935-78b4-4171-83de-3ae576a0e70f": "REF3040AIDBZR"
+    },
+    "package": "80230da3-365d-40f9-af9b-4faa8c3334b2",
+    "pad_map": {
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "voltagereference"
+    ],
+    "type": "part",
+    "uuid": "f30b0a88-c581-46a6-b83e-5baa63c198e3",
+    "value": [
+        false,
+        ""
+    ]
+}
