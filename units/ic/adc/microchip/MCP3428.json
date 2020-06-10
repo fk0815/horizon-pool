@@ -1,0 +1,92 @@
+{
+    "manufacturer": "Microchip",
+    "name": "MCP3428",
+    "pins": {
+        "0daa18b8-0183-4b03-b6ad-e874f774530d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CH2+",
+            "swap_group": 0
+        },
+        "0db231f5-e2bb-4620-bad8-4199f82939ec": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CH2-",
+            "swap_group": 0
+        },
+        "299fc52a-1137-4c14-a96a-989fb8ddaf4c": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "31dd6529-1040-4685-9ffd-2cac178597eb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADR0",
+            "swap_group": 0
+        },
+        "3344f705-18d2-4fb6-b12d-b88d70134791": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "37c8d8e5-6737-46f6-a04c-44fafe68f5e0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CH1-",
+            "swap_group": 0
+        },
+        "3ca9667a-bc42-4942-ad63-e058bd7b5ad7": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CH3+",
+            "swap_group": 0
+        },
+        "46ed05af-bfda-4569-8447-5339e92e561f": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "5ebed111-73ee-43e6-a353-f53472338071": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADR1",
+            "swap_group": 0
+        },
+        "6a353e96-929b-4925-b894-610d95118bf0": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CH4-",
+            "swap_group": 0
+        },
+        "6c090977-7ca7-4911-a73e-773976fa9a18": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CH1+",
+            "swap_group": 0
+        },
+        "9a76e663-4c32-4ca7-a78f-d604bea28d92": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CH4+",
+            "swap_group": 0
+        },
+        "e09b5e25-7d4a-428d-a51c-8015c40da759": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CH3-",
+            "swap_group": 0
+        },
+        "f7309263-74f9-49fa-b94b-906d8e0c7d6c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ceecb7ca-bdc3-4e6f-9d25-b19555ed488d"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ceecb7ca-bdc3-4e6f-9d25-b19555ed488d"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "MCP3428",
+    "prefix": "U",
+    "tags": [
+        "adc",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "99e08cdb-a07b-4679-aefa-056e4d2f1378"
+}

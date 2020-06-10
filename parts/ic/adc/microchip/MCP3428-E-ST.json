@@ -1,0 +1,92 @@
+{
+    "MPN": [
+        false,
+        "MCP3428-E/ST"
+    ],
+    "datasheet": [
+        false,
+        "http://ww1.microchip.com/downloads/en/DeviceDoc/22226a.pdf"
+    ],
+    "description": [
+        false,
+        "16-Bit, Multi-Channel ΔΣ Analog-to-Digital Converter with I2C™ Interface and On-Board Reference"
+    ],
+    "entity": "99e08cdb-a07b-4679-aefa-056e4d2f1378",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "12001aad-23c9-46d2-bfdb-75ffd2479776",
+    "pad_map": {
+        "261fe7ff-1e20-45bc-b96f-0733c16960c4": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "f7309263-74f9-49fa-b94b-906d8e0c7d6c"
+        },
+        "427439e3-355e-4c65-a502-338cba5d0f4b": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "e09b5e25-7d4a-428d-a51c-8015c40da759"
+        },
+        "46ab3d42-b140-4167-939f-00bebcccfc22": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "299fc52a-1137-4c14-a96a-989fb8ddaf4c"
+        },
+        "48201ebb-e791-4c91-9bdb-fc069831ade8": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "5ebed111-73ee-43e6-a353-f53472338071"
+        },
+        "5ea90398-774b-43ec-bd14-db28ef507b64": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "6a353e96-929b-4925-b894-610d95118bf0"
+        },
+        "64731022-0d14-4c0a-996c-3eed9f417c00": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "6c090977-7ca7-4911-a73e-773976fa9a18"
+        },
+        "6e7efadb-0a82-4a26-8965-513d6ff56219": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "0db231f5-e2bb-4620-bad8-4199f82939ec"
+        },
+        "af643901-6c38-4b1b-b30c-371212d093f7": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "46ed05af-bfda-4569-8447-5339e92e561f"
+        },
+        "b37a46a0-e07e-45ef-87df-bfcbf5f5bf8e": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "0daa18b8-0183-4b03-b6ad-e874f774530d"
+        },
+        "bf768b4b-3c62-4f52-ac68-910ef1896730": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "3ca9667a-bc42-4942-ad63-e058bd7b5ad7"
+        },
+        "e63a42e9-c280-4bc3-bf38-968baa5264c1": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "37c8d8e5-6737-46f6-a04c-44fafe68f5e0"
+        },
+        "e7483de8-0fee-46dc-a2d6-76e13d0a4a35": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "9a76e663-4c32-4ca7-a78f-d604bea28d92"
+        },
+        "ea132ec2-ccad-48a6-8121-3aab161d5867": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "31dd6529-1040-4685-9ffd-2cac178597eb"
+        },
+        "f0ed5f62-ebda-4736-9d7e-6894f8fb8421": {
+            "gate": "042d186a-8b0a-4d4f-bb3c-963ebb37f2b3",
+            "pin": "3344f705-18d2-4fb6-b12d-b88d70134791"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "adc",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "f030fb6b-097f-4b56-8250-a3df9030cb55",
+    "value": [
+        false,
+        ""
+    ]
+}
