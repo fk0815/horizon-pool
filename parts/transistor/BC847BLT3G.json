@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "BC847BLT3G"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/BC846ALT1-D.PDF"
+    ],
+    "description": [
+        false,
+        "General Purpose Transistor NPN Silicon"
+    ],
+    "entity": "15e94b7a-b7c9-4bf2-820c-11074dc0718e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "package": "80230da3-365d-40f9-af9b-4faa8c3334b2",
+    "pad_map": {
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "generic",
+        "npn",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "7fe23dfb-ac3b-471a-b373-a8694c330906",
+    "value": [
+        false,
+        ""
+    ]
+}
