@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Maxim",
+    "name": "MAX582x",
+    "pins": {
+        "1b2bce56-f2f7-4193-8e85-608bd4e57dd4": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTA",
+            "swap_group": 0
+        },
+        "2049e83c-647c-4fc2-8e4c-4a4b3da9efca": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "2d847c60-fe0f-46c2-842f-a6c2abdf2986": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "4311238b-71d1-412a-8184-8b83ffae1f7e": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "4c26913d-fd83-4659-9048-16350f63f608": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "572f317b-6dba-4f5f-ba39-1739ff98c6a5": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "REF",
+            "swap_group": 0
+        },
+        "8a3781e4-4aae-4df5-8f49-ea31e8c337e9": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "OUTB",
+            "swap_group": 0
+        },
+        "d4a97cb8-648e-4f33-8e4c-f71d4b9030ac": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADD",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "34ed3a8d-076f-4eab-8809-b96a5f2d50f1"
+}

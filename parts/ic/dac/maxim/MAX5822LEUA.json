@@ -1,0 +1,71 @@
+{
+    "MPN": [
+        false,
+        "MAX5822LEUA"
+    ],
+    "datasheet": [
+        false,
+        "https://datasheets.maximintegrated.com/en/ds/MAX5822.pdf"
+    ],
+    "description": [
+        false,
+        "Dual, 12-Bit, Low-Power, 2-Wire, Serial Voltage-Output DAC"
+    ],
+    "entity": "1762ee59-ffcc-43f0-94e3-e7d2331fc9de",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Maxim"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "489e78cc-eff2-4b6a-9b79-bea0cb9b7d97": "MAX5822MEUA"
+    },
+    "package": "0e1d4661-c50f-4296-a76c-c1a323071fbe",
+    "pad_map": {
+        "0cfb468b-4582-4539-a1fd-6c33d76eaa96": {
+            "gate": "85316112-5c8d-4410-a2a1-775063a0051f",
+            "pin": "572f317b-6dba-4f5f-ba39-1739ff98c6a5"
+        },
+        "29fea79c-332e-4212-8379-764ab5dfc08a": {
+            "gate": "85316112-5c8d-4410-a2a1-775063a0051f",
+            "pin": "4c26913d-fd83-4659-9048-16350f63f608"
+        },
+        "540233d7-05fb-4d69-abdf-4bd208b5e4ec": {
+            "gate": "85316112-5c8d-4410-a2a1-775063a0051f",
+            "pin": "d4a97cb8-648e-4f33-8e4c-f71d4b9030ac"
+        },
+        "6c12dd10-750d-4e03-a37c-b9fe948d7515": {
+            "gate": "85316112-5c8d-4410-a2a1-775063a0051f",
+            "pin": "2049e83c-647c-4fc2-8e4c-4a4b3da9efca"
+        },
+        "755ecd68-fd74-496f-b78f-9be15ddaa5b9": {
+            "gate": "85316112-5c8d-4410-a2a1-775063a0051f",
+            "pin": "1b2bce56-f2f7-4193-8e85-608bd4e57dd4"
+        },
+        "aaf34c2e-87a3-4732-9b36-615fb7983fbf": {
+            "gate": "85316112-5c8d-4410-a2a1-775063a0051f",
+            "pin": "4311238b-71d1-412a-8184-8b83ffae1f7e"
+        },
+        "ae7c2e7b-c163-4819-8b67-07d5276d8fac": {
+            "gate": "85316112-5c8d-4410-a2a1-775063a0051f",
+            "pin": "8a3781e4-4aae-4df5-8f49-ea31e8c337e9"
+        },
+        "eb9fa5e4-00fe-42e1-9abd-1652aedacb12": {
+            "gate": "85316112-5c8d-4410-a2a1-775063a0051f",
+            "pin": "2d847c60-fe0f-46c2-842f-a6c2abdf2986"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dac",
+        "ic"
+    ],
+    "type": "part",
+    "uuid": "e1349b8b-4d57-4bcc-81da-287338701a3c",
+    "value": [
+        false,
+        ""
+    ]
+}

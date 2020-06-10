@@ -1,0 +1,33 @@
+{
+    "MPN": [
+        false,
+        "MAX5820LEUA"
+    ],
+    "base": "e1349b8b-4d57-4bcc-81da-287338701a3c",
+    "datasheet": [
+        false,
+        "https://datasheets.maximintegrated.com/en/ds/MAX5820.pdf"
+    ],
+    "description": [
+        false,
+        "Dual, 8-Bit, Low-Power, 2-Wire, Serial Voltage-Output DAC"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Maxim"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "1933fe51-4040-4617-8023-7b8813d1c9ae": "MAX5820MEUA"
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "ef82f436-f1ac-4e82-ba29-2db90e521c24",
+    "value": [
+        true,
+        "MAX5822LEUA"
+    ]
+}

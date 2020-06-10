@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "85316112-5c8d-4410-a2a1-775063a0051f": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "34ed3a8d-076f-4eab-8809-b96a5f2d50f1"
+        }
+    },
+    "manufacturer": "Maxim",
+    "name": "MAX582x",
+    "prefix": "U",
+    "tags": [
+        "dac",
+        "ic"
+    ],
+    "type": "entity",
+    "uuid": "1762ee59-ffcc-43f0-94e3-e7d2331fc9de"
+}
