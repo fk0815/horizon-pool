@@ -1,0 +1,46 @@
+{
+    "MPN": [
+        false,
+        "MSTBA 2,5/ 2-G-5,08"
+    ],
+    "datasheet": [
+        false,
+        "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1757242.pdf"
+    ],
+    "description": [
+        false,
+        "Header, Nominal current: 12 A, Rated voltage: 320 V, Pitch: 5.08 mm"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Phoenix Contact"
+    ],
+    "model": "ab1146a4-2404-4ed6-865f-2bbac065fe27",
+    "orderable_MPNs": {
+        "349c5596-1f37-44b4-aef8-3ad4f934640a": "1757242"
+    },
+    "package": "9be41b8d-9a01-4200-a2d8-df76aa7ce217",
+    "pad_map": {
+        "42b78e1e-e33b-4b65-b850-cfd97240eb16": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        },
+        "648332cf-8624-4109-99c0-18ede7d1630b": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "e5b3c170-0ee9-4d39-8a13-45276c5c1732",
+    "value": [
+        false,
+        ""
+    ]
+}
