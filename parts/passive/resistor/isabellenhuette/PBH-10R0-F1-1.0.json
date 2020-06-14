@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "PBH-10R0-F1-1.0"
+    ],
+    "base": "6a42cf86-34ad-40be-853d-c68d27a3d834",
+    "datasheet": [
+        true,
+        "https://www.isabellenhuette.de/fileadmin/Daten/Praezisionswiderstaende/Datenblaetter/PBH.PDF"
+    ],
+    "description": [
+        true,
+        "Precision resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Isabellenhuette"
+    ],
+    "model": "042a8636-40b9-46c8-9247-b271fda63c0d",
+    "parametric": {
+        "pmax": "3",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "10"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "dfad75d0-35f1-4c41-8c2f-7d13725b6b34",
+    "value": [
+        false,
+        "10Ω"
+    ]
+}

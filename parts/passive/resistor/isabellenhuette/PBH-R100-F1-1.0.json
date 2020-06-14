@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "PBH-R100-F1-1.0"
+    ],
+    "datasheet": [
+        false,
+        "https://www.isabellenhuette.de/fileadmin/Daten/Praezisionswiderstaende/Datenblaetter/PBH.PDF"
+    ],
+    "description": [
+        false,
+        "Precision resistor"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Isabellenhuette"
+    ],
+    "model": "042a8636-40b9-46c8-9247-b271fda63c0d",
+    "package": "129e2603-702c-4b7b-8c70-dadd6961d12c",
+    "pad_map": {
+        "7d3f13a0-65d7-4fe3-b728-20bec76634a9": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "e6254bad-2e3a-4340-949e-24f441bdd1e0": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {
+        "pmax": "3",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "0.1"
+    },
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "6a42cf86-34ad-40be-853d-c68d27a3d834",
+    "value": [
+        false,
+        "100mΩ"
+    ]
+}
