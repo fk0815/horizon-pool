@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "4N27"
+    ],
+    "datasheet": [
+        false,
+        "https://www.vishay.com/docs/83725/4n25.pdf"
+    ],
+    "description": [
+        false,
+        "Optocoupler, Phototransistor Output, with Base Connection"
+    ],
+    "entity": "92dc6a2c-96b8-4bd3-8d6d-c3341f3d43a9",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "e887a48c-a085-4ae6-aa85-a06ea15064bc",
+    "pad_map": {
+        "17f96b52-6224-4156-a2c9-3b4c292bf3ab": {
+            "gate": "13f6105a-5833-4766-8a28-aa863b9ed3b1",
+            "pin": "ab389406-1038-4eca-b2eb-9052ac95bae2"
+        },
+        "49b2ec1d-bc9c-4e02-938e-5853ed60855c": {
+            "gate": "13f6105a-5833-4766-8a28-aa863b9ed3b1",
+            "pin": "5172e1fe-e3f0-43e0-9863-465c59f46ab7"
+        },
+        "4f957a10-9981-4100-ae71-aeff3c5066d1": {
+            "gate": "13f6105a-5833-4766-8a28-aa863b9ed3b1",
+            "pin": "a1754538-4d10-4c86-a7a0-7c17d15ba7e8"
+        },
+        "7f96be97-4c27-449b-85d4-982e9acc4e0f": {
+            "gate": "13f6105a-5833-4766-8a28-aa863b9ed3b1",
+            "pin": "74048d1c-6488-4b7a-8103-93bb2e85aee6"
+        },
+        "82c78305-002b-487c-b1b6-b33435718f8e": {
+            "gate": "13f6105a-5833-4766-8a28-aa863b9ed3b1",
+            "pin": "49aea420-016d-4ba2-9451-5996acefec56"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "optoisolator"
+    ],
+    "type": "part",
+    "uuid": "de487cbc-3ff8-416e-9f58-03d7da54301f",
+    "value": [
+        false,
+        ""
+    ]
+}

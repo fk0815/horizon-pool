@@ -1,0 +1,38 @@
+{
+    "manufacturer": "",
+    "name": "Transistor Opto-Isolator",
+    "pins": {
+        "49aea420-016d-4ba2-9451-5996acefec56": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "5172e1fe-e3f0-43e0-9863-465c59f46ab7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        },
+        "74048d1c-6488-4b7a-8103-93bb2e85aee6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "E",
+            "swap_group": 0
+        },
+        "a1754538-4d10-4c86-a7a0-7c17d15ba7e8": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C",
+            "swap_group": 0
+        },
+        "ab389406-1038-4eca-b2eb-9052ac95bae2": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "B",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ea6d678a-a722-48f5-b047-3df71c17b7f9"
+}

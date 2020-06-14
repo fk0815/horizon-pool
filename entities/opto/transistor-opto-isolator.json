@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "13f6105a-5833-4766-8a28-aa863b9ed3b1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ea6d678a-a722-48f5-b047-3df71c17b7f9"
+        }
+    },
+    "manufacturer": "",
+    "name": "Transistor Opto-Isolator",
+    "prefix": "U",
+    "tags": [
+        "Opto-Isolator"
+    ],
+    "type": "entity",
+    "uuid": "92dc6a2c-96b8-4bd3-8d6d-c3341f3d43a9"
+}
