@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "LM2990S-5.0/NOPB"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/lit/gpn/LM2990"
+    ],
+    "description": [
+        false,
+        "Negative Low-Dropout Regulator"
+    ],
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "8d321cdc-45fb-4c94-acc3-bd689a4b93dd",
+    "orderable_MPNs": {
+        "2cbb597b-7280-4f16-ba00-b15fdb85f114": "LM2990S-5.0/NOPB"
+    },
+    "package": "d3f7cc02-c81d-47dc-b0aa-46c4e9b85915",
+    "pad_map": {
+        "1d2eb7c5-c729-427a-b29e-006ba744cf5b": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "62f0378b-5c2f-4bdf-87e2-530db4e0f986": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "96816850-1abe-4df2-abb7-34bbf00724f1": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "fb6ef32b-d912-4eb3-844e-51478d52e38d": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "reg",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "49230480-86b7-49a7-a705-510a4548ac24",
+    "value": [
+        false,
+        ""
+    ]
+}
