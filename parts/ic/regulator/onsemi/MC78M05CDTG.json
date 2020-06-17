@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "MC78M05CDTG"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/MC78M00-D.PDF"
+    ],
+    "description": [
+        false,
+        "500 mA Positive Voltage Regulator"
+    ],
+    "entity": "1d0055e8-b654-4bb9-b3e2-5ad87079ecca",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "9efd59bd-31aa-4aa3-9f7a-331e56d523c0": "MC78M05CDTG"
+    },
+    "package": "16c61df1-3d36-4595-b375-9de205099fae",
+    "pad_map": {
+        "1ebfdacc-5e8d-4859-adf8-c7aac132bf93": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "304699c2-7433-4b03-ad2c-c8df631dd06f"
+        },
+        "33e7ae34-421d-4bc7-9053-1907f43211ba": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "559d5e91-2169-486b-9ece-8db9867957dd"
+        },
+        "65558da1-2ee8-4958-ba3a-2ba615630c9c": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        },
+        "76963721-3bad-40f5-8c65-0857684d11ac": {
+            "gate": "8b4c20d8-37fd-40a5-8239-db8803c0baa0",
+            "pin": "20f0495c-5e6e-4975-b440-1399ca09d3c3"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "regulator",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "8e1c5848-014e-4c95-baa7-1e5dfbd29c4d",
+    "value": [
+        false,
+        ""
+    ]
+}
