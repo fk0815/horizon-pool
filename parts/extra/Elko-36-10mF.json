@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "Elko-36-10mF"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Elko 10µF 40V"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "none"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "bce77c6d-04bb-4d50-a6d9-827ed93c8667",
+    "pad_map": {
+        "adad3be2-6e7f-4e30-b030-79b459dd0c60": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "b846ba4d-f4bb-4005-a344-2449cc63aa6e": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "bca2be59-3273-4956-8fb0-a5aa6a0d51eb",
+    "value": [
+        false,
+        "10mF"
+    ]
+}

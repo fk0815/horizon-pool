@@ -1,0 +1,259 @@
+{
+    "arcs": {
+        "0ce66222-ef93-4b0f-bb6f-94d6b8db0343": {
+            "center": "92667303-881c-4cfa-b739-4f92c10e4286",
+            "from": "bd4a59ef-70c8-44b0-ab04-002e867f8220",
+            "layer": 20,
+            "to": "cf6202ae-98d6-446c-80bb-9518b18aa2f9",
+            "width": 150000
+        },
+        "58fe0f67-a930-4672-a3b5-bc03363e120c": {
+            "center": "92667303-881c-4cfa-b739-4f92c10e4286",
+            "from": "3f181c85-7ea5-4382-8949-0257fc96c547",
+            "layer": 20,
+            "to": "b3e66346-0aa2-43dd-ab7e-9289f8a6eefa",
+            "width": 150000
+        },
+        "fe39d716-2861-456e-884c-aa0f19a43848": {
+            "center": "92667303-881c-4cfa-b739-4f92c10e4286",
+            "from": "33a7dd30-d187-4b2e-aa66-2b0d2670f380",
+            "layer": 20,
+            "to": "5bfe2ea5-d4c8-41b7-a069-7f20820e2760",
+            "width": 150000
+        }
+    },
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "junctions": {
+        "33a7dd30-d187-4b2e-aa66-2b0d2670f380": {
+            "position": [
+                1200000,
+                11300000
+            ]
+        },
+        "3f181c85-7ea5-4382-8949-0257fc96c547": {
+            "position": [
+                -10200000,
+                -5000000
+            ]
+        },
+        "5bfe2ea5-d4c8-41b7-a069-7f20820e2760": {
+            "position": [
+                -1200000,
+                11300000
+            ]
+        },
+        "92667303-881c-4cfa-b739-4f92c10e4286": {
+            "position": [
+                0,
+                0
+            ]
+        },
+        "b3e66346-0aa2-43dd-ab7e-9289f8a6eefa": {
+            "position": [
+                -6100000,
+                -9600000
+            ]
+        },
+        "bd4a59ef-70c8-44b0-ab04-002e867f8220": {
+            "position": [
+                6100000,
+                -9600000
+            ]
+        },
+        "cf6202ae-98d6-446c-80bb-9518b18aa2f9": {
+            "position": [
+                10200000,
+                -5000000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {},
+    "manufacturer": "",
+    "models": {},
+    "name": "Elko-26",
+    "pads": {
+        "85eab941-2184-4e08-b2b8-60a0392a8e0b": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1400000,
+                "pad_diameter": 3400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    5100000,
+                    5100000
+                ]
+            }
+        },
+        "d6d9cef7-ddae-4b5c-85ac-2566494e57de": {
+            "name": "5",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1400000,
+                "pad_diameter": 3400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    -7600000
+                ]
+            }
+        },
+        "eb615da5-0427-4292-986e-632937554844": {
+            "name": "2",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1400000,
+                "pad_diameter": 3400000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5100000,
+                    5100000
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {},
+    "polygons": {
+        "18690785-7a04-4929-8575-edd042470964": {
+            "layer": 50,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        12800000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": true,
+                    "position": [
+                        0,
+                        12800000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        },
+        "28ab99df-9d63-44ed-b198-19b398a9bbb3": {
+            "layer": 50,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        11400000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": true,
+                    "position": [
+                        0,
+                        11400000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        },
+        "4759e44d-7914-475a-9681-4f13c0d1b93f": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        0,
+                        12800000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": true,
+                    "position": [
+                        0,
+                        12800000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        }
+    },
+    "tags": [],
+    "texts": {
+        "83715747-bc56-4bfb-9302-5e7d64ea1e17": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2100000,
+                    -2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 150000
+        },
+        "9d294604-6f67-4f4b-8e99-b621b2986169": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2100000,
+                    -2500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$RD",
+            "width": 0
+        }
+    },
+    "type": "package",
+    "uuid": "2fae66ef-1c61-4750-b9d0-e4e08aa4c435"
+}

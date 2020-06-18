@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "Elko-26-4700µF"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "Elko 4700µF"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "none"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "2fae66ef-1c61-4750-b9d0-e4e08aa4c435",
+    "pad_map": {
+        "85eab941-2184-4e08-b2b8-60a0392a8e0b": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "d6d9cef7-ddae-4b5c-85ac-2566494e57de": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "122eea98-3301-43ba-82dc-4c4275d2d7c6",
+    "value": [
+        false,
+        "4700µF"
+    ]
+}
