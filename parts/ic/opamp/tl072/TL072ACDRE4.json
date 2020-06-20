@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "TL072ACDRE4"
+    ],
+    "base": "e5fe30fe-157f-4832-a4fa-22a1da7f3be1",
+    "datasheet": [
+        true,
+        "https://www.ti.com/lit/gpn/TL072"
+    ],
+    "description": [
+        true,
+        "Dual Low-Noise JFET-Input General-Purpose Operational Amplifier"
+    ],
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        true,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "a1b08f4d-5dcb-4fe4-9158-9a081d54d0b9",
+    "value": [
+        true,
+        "TL072"
+    ]
+}
