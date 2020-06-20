@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "KBU6B"
+    ],
+    "datasheet": [
+        false,
+        "https://www.vishay.com/docs/88657/kbu6.pdf"
+    ],
+    "description": [
+        false,
+        "Single-Phase Bridge Rectifier\n"
+    ],
+    "entity": "1ecbdf6f-b051-4c5a-b6a0-514a5d0b0202",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "0174b182-b768-49ab-a6a6-4843094f4e67",
+    "package": "9e493a9b-26a7-4191-860b-afdade7b5a2d",
+    "pad_map": {
+        "7733ec39-2b90-445b-a5c1-842f630819b4": {
+            "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
+            "pin": "7e154de2-0147-4b7d-8d68-dbd4405e40fd"
+        },
+        "aeeba737-e601-48ae-9f07-7b22a5e1c4d9": {
+            "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
+            "pin": "1d3eb94b-f629-4c88-92a2-69c030563e7d"
+        },
+        "d84fc7d8-8fb4-4285-b596-f2aa22b97498": {
+            "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
+            "pin": "d7919865-a58b-4a50-8db4-0560d5280ea8"
+        },
+        "edb8f17d-3491-4714-af88-d4f906077d8c": {
+            "gate": "628d2954-1807-45e6-a521-7d33bda8af06",
+            "pin": "70728dd7-50d3-4ed2-b00e-b8adc3f9d09e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "rectifier"
+    ],
+    "type": "part",
+    "uuid": "bc52d755-a726-461d-aee0-7684c15e49d7",
+    "value": [
+        false,
+        ""
+    ]
+}
