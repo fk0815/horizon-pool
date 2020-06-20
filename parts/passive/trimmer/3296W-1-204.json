@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "3296W-1-204"
+    ],
+    "base": "c4a9745e-3c67-4463-89af-26d476a09551",
+    "datasheet": [
+        true,
+        "https://www.bourns.com/pdfs/3296.pdf"
+    ],
+    "description": [
+        false,
+        "25-Turn Precision Trimmer 200k 10% 100ppm/C 1/2W"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Bourns"
+    ],
+    "model": "5aec0fbd-c042-488e-8526-07ed3286708c",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "3f512377-3eb0-4bf6-82d3-72f9b09055b2",
+    "value": [
+        false,
+        "200k"
+    ]
+}
