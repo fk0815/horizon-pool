@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "EMZA500ADA221MJA0G"
+    ],
+    "datasheet": [
+        false,
+        "http://www.chemi-con.co.jp/cgi-bin/CAT_DB/SEARCH/cat_db_al.cgi?e=e&j=p&pdfname=mza"
+    ],
+    "description": [
+        false,
+        "SURFACE MOUNT ALUMINUM ELECTROLYTIC CAPACITORS"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "United Chemi-Con"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "orderable_MPNs": {
+        "6ec8f74a-2cde-4f0b-897e-556a501f0d95": "EMZA500GDA221MJA0G",
+        "888013df-8e54-4a13-948d-f4a9bf1763cb": "EMZA500ADA221MJA0G"
+    },
+    "package": "ea7b321f-c92a-400b-a91d-5fdcc9c9fb06",
+    "pad_map": {
+        "467512e9-312e-48d9-aa20-49c6e5837b06": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        },
+        "678daa28-aa55-4384-9f63-53e6cc72f544": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.00022",
+        "wvdc": "50"
+    },
+    "tags": [
+        "capacitor",
+        "passive",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "e450652c-ccd0-434c-bf27-bb3bc9b7d497",
+    "value": [
+        false,
+        "220µF"
+    ]
+}
