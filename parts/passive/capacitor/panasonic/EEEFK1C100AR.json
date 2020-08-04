@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "EEEFK1C100AR"
+    ],
+    "datasheet": [
+        false,
+        "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1175.pdf"
+    ],
+    "description": [
+        false,
+        "Aluminum Electrolytic Capacitor 16V"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "e8cca7df-c725-432f-9c78-d358f6c4ef30",
+    "package": "5d2561bb-b11a-49d8-87e7-3a063d93bbeb",
+    "pad_map": {
+        "16762634-a0fc-4d70-bfd3-c091889ecc7e": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "ff442e8e-9d6e-435f-9596-7ea6ad8dd470": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "836dd345-7cad-4bac-8b7c-a8048f44f1cd",
+    "value": [
+        false,
+        "10µF"
+    ]
+}
