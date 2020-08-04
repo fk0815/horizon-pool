@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "2N7002K-7"
+    ],
+    "datasheet": [
+        false,
+        "https://www.diodes.com/assets/Datasheets/ds30896.pdf"
+    ],
+    "description": [
+        false,
+        "N-CHANNEL ENHANCEMENT MODE MOSFET"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Incorporated"
+    ],
+    "model": "eb54e7ca-dcad-4e09-bd45-d2e32cddaa2a",
+    "orderable_MPNs": {
+        "1f9f0267-3421-4a37-9fe7-cc568c316fe8": "2N7002K-13",
+        "312ead5f-5400-4590-8cfb-8af34b45c208": "2N7002KQ-13",
+        "c654c3d1-12ec-4b33-a867-25a4b197fa2d": "2N7002KQ-7"
+    },
+    "package": "80230da3-365d-40f9-af9b-4faa8c3334b2",
+    "pad_map": {
+        "bb9bbbd8-9aa2-49aa-98fd-b508ded56028": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "be802fd1-5220-4258-a11f-c1529e6187e0": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "f827f54d-8a25-45ce-a5c6-aa1cdc05418a": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet"
+    ],
+    "type": "part",
+    "uuid": "dd7384d7-28c2-4855-bade-6dbea12155e3",
+    "value": [
+        false,
+        ""
+    ]
+}
