@@ -1,6 +1,6 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
+    "default_model": "93d6bab4-2196-4923-9a09-c04bf3bcf08c",
     "dimensions": {},
     "junctions": {
         "4b991b85-a2c7-41d2-aa6b-ac267f1239dd": {
@@ -44,7 +44,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "93d6bab4-2196-4923-9a09-c04bf3bcf08c": {
+            "filename": "3d_models/ic/so/MSOP-8_3x3mm_P0.65mm.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 0,
+            "z": 0
+        }
+    },
     "name": "MSOP-8",
     "pads": {
         "0cfb468b-4582-4539-a1fd-6c33d76eaa96": {
