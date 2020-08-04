@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "MJH6284G"
+    ],
+    "datasheet": [
+        false,
+        "https://www.onsemi.com/pub/Collateral/MJH6284-D.PDF"
+    ],
+    "description": [
+        false,
+        "DARLINGTON 20 AMPERE SILICON POWER TRANSISTOR 100 VOLTS, 160 WATTS"
+    ],
+    "entity": "15e94b7a-b7c9-4bf2-820c-11074dc0718e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "4bb3aeab-5b71-4ea2-8389-ee74c643a4f4",
+    "package": "a23488fa-3fed-4522-8d8d-571c12fd4826",
+    "pad_map": {
+        "0f3de8c9-4ac9-4b2e-bf52-a1173c560b65": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "981f125d-2a84-4940-8118-bb6902142e51": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "afbe33fa-10dc-492d-a69e-efeeac6330d5": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "darlington",
+        "npn",
+        "transistor"
+    ],
+    "type": "part",
+    "uuid": "da9fcd90-5563-4d57-8a2c-31fceb05da7a",
+    "value": [
+        false,
+        ""
+    ]
+}
